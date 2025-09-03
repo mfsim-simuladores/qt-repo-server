@@ -2,16 +2,16 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>9996433fa77ecdfc918acb09c67d3399b1f31633</SHA1>
- <MetadataName>2025-09-03-1557_meta.7z</MetadataName>
+ <SHA1>dc293bd172657e4debb618d7c4a614fbce5118d8</SHA1>
+ <MetadataName>2025-09-03-1605_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mfsim.instruments</Name>
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
   <Version>0.1.2-1</Version>
   <ReleaseDate>2025-09-02</ReleaseDate>
-  <UpdateFile CompressedSize="10206199" OS="Any" UncompressedSize="11299880"/>
+  <UpdateFile CompressedSize="10206152" OS="Any" UncompressedSize="11299880"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>99a8a66248ed9459a374519053c70f18d7f2c71f</SHA1>
+  <SHA1>ea643fc22608842fec1d249d708d97e10704cfdc</SHA1>
  </PackageUpdate>
 </Updates>
