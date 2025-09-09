@@ -2,16 +2,26 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>38da4939e094cb9a8ca5c8e7ee0930cd79f6e0f1</SHA1>
- <MetadataName>2025-09-03-1626_meta.7z</MetadataName>
+ <SHA1>f3f0d4750c7f5815fb9a7c034b37720e3fb5130e</SHA1>
+ <MetadataName>2025-09-09-1408_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>com.mfsim.instructor</Name>
+  <DisplayName>MFSim Instructor App</DisplayName>
+  <Description>A software developed by MFSim team to simulate an instructor environment.</Description>
+  <Version>0.1.0-0</Version>
+  <ReleaseDate>2025-09-09</ReleaseDate>
+  <UpdateFile CompressedSize="19586604" OS="Any" UncompressedSize="56574729"/>
+  <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
+  <SHA1>0eb361c0a2a25aa1b980a4878bf51e8bf84b66d1</SHA1>
+ </PackageUpdate>
  <PackageUpdate>
   <Name>com.mfsim.instruments</Name>
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
   <Version>0.1.3-1</Version>
   <ReleaseDate>2025-09-02</ReleaseDate>
-  <UpdateFile CompressedSize="37886468" OS="Any" UncompressedSize="122733491"/>
+  <UpdateFile CompressedSize="37885244" OS="Any" UncompressedSize="122733491"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>09791684d88ddb2c857756303fd6fbbee90ed264</SHA1>
+  <SHA1>b3135335266eb234c051f9f369ee1129ce1b8212</SHA1>
  </PackageUpdate>
 </Updates>
