@@ -2,26 +2,26 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>fb9cfe3263fa91a630e725858ce1bdaad8874152</SHA1>
- <MetadataName>2025-09-12-1603_meta.7z</MetadataName>
+ <SHA1>e840147fda134dc0188a9aa3ac35e87ad4bca3fa</SHA1>
+ <MetadataName>2025-09-25-1539_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mfsim.instructor</Name>
   <DisplayName>MFSim Instructor App</DisplayName>
   <Description>A software developed by MFSim team to simulate an instructor environment.</Description>
   <Version>0.1.0-2</Version>
   <ReleaseDate>2025-09-09</ReleaseDate>
-  <UpdateFile CompressedSize="22405009" OS="Any" UncompressedSize="59508026"/>
+  <UpdateFile CompressedSize="22405210" OS="Any" UncompressedSize="59508026"/>
   <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
-  <SHA1>3014e1ddcc45993eacaba12aa33d830c4fc05f5b</SHA1>
+  <SHA1>c5cecca982f760774b03eab610808c5a8c1ccbb9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.mfsim.instruments</Name>
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
-  <Version>0.1.3-2</Version>
+  <Version>0.1.3-3</Version>
   <ReleaseDate>2025-09-02</ReleaseDate>
-  <UpdateFile CompressedSize="41103447" OS="Any" UncompressedSize="157733483"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>e5312561e59d972643346d276e981ac0398033fa</SHA1>
+  <UpdateFile CompressedSize="41210527" OS="Any" UncompressedSize="159350803"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>7ce966665f377901dfb54969f43112bae40bccb5</SHA1>
  </PackageUpdate>
 </Updates>
