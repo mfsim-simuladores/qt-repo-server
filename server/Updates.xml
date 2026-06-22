@@ -10,7 +10,7 @@
   <Description>A software developed by MFSim team to simulate an instructor environment.</Description>
   <Version>0.1.0</Version>
   <ReleaseDate>2026-06-22</ReleaseDate>
-  <UpdateFile CompressedSize="95795601" OS="Any" UncompressedSize="288728875"/>
+  <UpdateFile CompressedSize="95796601" OS="Any" UncompressedSize="288728875"/>
   <DownloadableArchives>APK.7z,data.7z,PLUGINS.7z,content.7z</DownloadableArchives>
   <SHA1>c61fc7bb165640efb0f4818dfae12a18099661c9</SHA1>
  </PackageUpdate>
@@ -21,8 +21,11 @@
   <Version>0.1.0</Version>
   <ReleaseDate>2026-06-22</ReleaseDate>
   <UpdateFile CompressedSize="530134196" OS="Any" UncompressedSize="1639634064"/>
-  <DownloadableArchives>MFSim-Instruments.7z</DownloadableArchives>
-  <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev\0.1.0MFSim-Instruments.zip</Url>	
+  
+  <DownloadableArchives>0.1.0MFSim-Instruments.zip</DownloadableArchives>
+  
+  <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/0.1.0MFSim-Instruments.zip</Url>
+  
   <SHA1>6ca3343486501ff6b08da394ca32886e69438770</SHA1>
  </PackageUpdate>
 </Updates>
