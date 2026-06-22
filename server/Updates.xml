@@ -20,12 +20,12 @@
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
   <Version>0.1.0</Version>
   <ReleaseDate>2026-06-22</ReleaseDate>
-  <UpdateFile CompressedSize="530134196" OS="Any" UncompressedSize="1639634064"/>
+  <UpdateFile CompressedSize="529912647" OS="Any" UncompressedSize="1639634064"/>
   
   <DownloadableArchives>0.1.0MFSim-Instruments.zip</DownloadableArchives>
   
-  <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/0.1.0MFSim-Instruments.zip</Url>
+  <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/com.mfsim.instruments/</Url>
   
-  <SHA1>6ca3343486501ff6b08da394ca32886e69438770</SHA1>
+  <SHA1>5eab49272678ed48f1cb07b5ccb643588a94d771</SHA1>
  </PackageUpdate>
 </Updates>
