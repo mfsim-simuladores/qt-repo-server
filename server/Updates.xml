@@ -17,7 +17,7 @@
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
   <Version>0.1.0</Version>
-  <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/com.mfsim.instruments/0.1.0MFSim-Instruments.zip</Url>
+  <!-- <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/com.mfsim.instruments/0.1.0MFSim-Instruments.zip</Url> -->
   <ReleaseDate>2026-06-22</ReleaseDate>
   <UpdateFile CompressedSize="530134192" OS="Any" UncompressedSize="1639634064"/>
   <DownloadableArchives>MFSim-Instruments.7z,MFSim-Instruments.zip</DownloadableArchives>
