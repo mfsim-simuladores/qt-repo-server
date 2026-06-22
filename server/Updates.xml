@@ -2,26 +2,26 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>e840147fda134dc0188a9aa3ac35e87ad4bca3fa</SHA1>
- <MetadataName>2025-09-25-1539_meta.7z</MetadataName>
+ <SHA1>d9c1d13910d9efda10deff568ac7c191397d8896</SHA1>
+ <MetadataName>2026-06-22-0829_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mfsim.instructor</Name>
   <DisplayName>MFSim Instructor App</DisplayName>
   <Description>A software developed by MFSim team to simulate an instructor environment.</Description>
-  <Version>0.1.0-2</Version>
-  <ReleaseDate>2025-09-09</ReleaseDate>
-  <UpdateFile CompressedSize="22405210" OS="Any" UncompressedSize="59508026"/>
-  <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
-  <SHA1>c5cecca982f760774b03eab610808c5a8c1ccbb9</SHA1>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2026-06-22</ReleaseDate>
+  <UpdateFile CompressedSize="95795713" OS="Any" UncompressedSize="288728875"/>
+  <DownloadableArchives>APK.7z,data.7z,PLUGINS.7z,content.7z</DownloadableArchives>
+  <SHA1>86575e214b061a73bb55cea4b24094157f604bf9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.mfsim.instruments</Name>
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
-  <Version>0.1.3-3</Version>
-  <ReleaseDate>2025-09-02</ReleaseDate>
-  <UpdateFile CompressedSize="41210527" OS="Any" UncompressedSize="159350803"/>
-  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>7ce966665f377901dfb54969f43112bae40bccb5</SHA1>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2026-06-22</ReleaseDate>
+  <UpdateFile CompressedSize="530134188" OS="Any" UncompressedSize="1639634064"/>
+  <DownloadableArchives>MFSim-Instruments.7z,MFSim-Instruments.zip</DownloadableArchives>
+  <SHA1>7f9f651230cc051d828dcb6653881916ad2d50e2</SHA1>
  </PackageUpdate>
 </Updates>
