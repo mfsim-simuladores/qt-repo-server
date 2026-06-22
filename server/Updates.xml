@@ -2,30 +2,27 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>3ab8e066df0664f14138ab26f04095a03a75c098</SHA1>
- <MetadataName>2026-06-22-0936_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mfsim.instructor</Name>
   <DisplayName>MFSim Instructor App</DisplayName>
   <Description>A software developed by MFSim team to simulate an instructor environment.</Description>
   <Version>0.1.0</Version>
   <ReleaseDate>2026-06-22</ReleaseDate>
-  <UpdateFile CompressedSize="95796601" OS="Any" UncompressedSize="288728875"/>
+  <UpdateFile CompressedSize="95795578" OS="Any" UncompressedSize="288728875"/>
   <DownloadableArchives>APK.7z,data.7z,PLUGINS.7z,content.7z</DownloadableArchives>
-  <SHA1>c61fc7bb165640efb0f4818dfae12a18099661c9</SHA1>
+  <SHA1>5de0dbd3b55da2cb940c2837eb00eecb0aa99f84</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.mfsim.instruments</Name>
   <DisplayName>MFSim Instruments App</DisplayName>
   <Description>A software developed by MFSim team to simulate the most used planes in the simulation world.</Description>
   <Version>0.1.0</Version>
-  <ReleaseDate>2026-06-22</ReleaseDate>
-  <UpdateFile CompressedSize="529912647" OS="Any" UncompressedSize="1639634064"/>
-  
-  <DownloadableArchives>0.1.0MFSim-Instruments.zip</DownloadableArchives>
-  
   <Url>https://pub-54b145e2ed0843a0b91d59b5f1aa14a9.r2.dev/com.mfsim.instruments/0.1.0MFSim-Instruments.zip</Url>
-  
-  <SHA1>5eab49272678ed48f1cb07b5ccb643588a94d771</SHA1>
+  <ReleaseDate>2026-06-22</ReleaseDate>
+  <UpdateFile CompressedSize="530134192" OS="Any" UncompressedSize="1639634064"/>
+  <DownloadableArchives>MFSim-Instruments.7z,MFSim-Instruments.zip</DownloadableArchives>
+  <SHA1>87b40afaff082f01833ccca66afce75add63e317</SHA1>
  </PackageUpdate>
+ <SHA1>b96ce56893bed1df4ccd664abdcae4fb11d111a9</SHA1>
+ <MetadataName>2026-06-22-1122_meta.7z</MetadataName>
 </Updates>
