@@ -1,13 +1,11 @@
-# qt-repo-server/Dockerfile
-
-# Use uma imagem leve do Nginx como base
 FROM nginx:alpine
 
-# Copia o arquivo de configuração do Nginx para a imagem
+# Copia a sua configuração customizada do Nginx para dentro do container
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Copia todo o conteúdo da sua pasta "server" para a pasta do Nginx
-COPY server/ /usr/share/nginx/html/
+# Copia os arquivos de versão (Updates.xml e a pasta server/) para a pasta do Nginx
+COPY Updates.xml /usr/share/nginx/html/
+COPY server/ /usr/share/nginx/html/server/
 
-# Exponha a porta 8080, que é a que o Nginx está escutando
-EXPOSE 8080
+# Informa ao Railway a porta utilizada
+EXPOSE 80
